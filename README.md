@@ -23,7 +23,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Science student.
+Graduated in Data Science @ Sapienza University of Rome.
+Currently working as Data Engineer for the project "Strengthening BBMRI.it" @ CNR - IEOS.
+
 
 ---
 
